@@ -52,7 +52,7 @@
     </el-row>
 </template>
 <script>
-    var con=require("../../../config.json");
+    var con=require("../../../config.js");
     var proxyImg=require("../director/proxyImg")
     module.exports={
         props:["transparent"],

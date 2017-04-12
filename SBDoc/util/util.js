@@ -3,7 +3,7 @@
  */
 var request=require("../third/requestAsync");
 var error=require("./error.json");
-var con=require("./../../config.json")
+var con=require("./../../config.js")
 var moment=require("moment");
 var event=require("events");
 var express=require("express");

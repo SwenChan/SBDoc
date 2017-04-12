@@ -5,7 +5,7 @@ var express=require("express");
 var multiparty=require("multiparty");
 var user=require("../model/userModel");
 var e=require("../util/error.json");
-var con=require("../../config.json");
+var con=require("../../config.js");
 var util=require("../util/util");
 function formData(path) {
     var router = util.router(path);

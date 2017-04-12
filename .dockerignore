@@ -1,0 +1,4 @@
+idea/*
+.git/*
+SBDoc/node_modules/*
+SBDocClient/node_modules/*

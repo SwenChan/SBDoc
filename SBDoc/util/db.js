@@ -2,7 +2,7 @@
  * Created by sunxin on 16/4/15.
  */
 var mongoose = require('mongoose');
-var data=require("./../../config.json");
+var data=require("./../../config.js");
 var util=require("./util");
 require("../third/schemaExtend");
 mongoose.Promise = require('bluebird');
