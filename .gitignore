@@ -1,4 +1,4 @@
 .idea/
-./SBDocClient/node_modules/
-./SBDoc/node_modules/
+SBDoc/node_modules/
+SBDocClient/node_modules/
 SBDoc/npm-debug.log
